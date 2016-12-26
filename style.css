@@ -22,14 +22,10 @@ h5 {	font-size: 1em;
 }
 
 .hero {
-	background-image: url("subtle_background_1.PNG");
 	background: #ccffff;
 	background-position: center top;
 	background-size: cover;
-	padding: 250px 0;
-	margin: 30px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
+	
 }
 
 
