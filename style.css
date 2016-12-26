@@ -12,6 +12,10 @@ body {
 h1 {
 	font-size: 3em;
 }
+.pic { position: absolute;
+	right: 20px;
+	top: 20px;
+}
 h2 {
 	font-size: 2em; 
 }
