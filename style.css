@@ -11,13 +11,14 @@ h1 {
 }
 
 h2 {
-	color: #black;
 	font-size: 2.5em; 
 }
 h3 {	font-size: 2em;
 	text-decoration: underline;
 }
 h4 {	font-size: 1.75em;
+}
+h5 {	font-size: 1em;
 }
 
 .hero {
@@ -32,7 +33,6 @@ h4 {	font-size: 1.75em;
 
 
 p {
-	color: #black;
 	font-size: 1em;
 }
 
