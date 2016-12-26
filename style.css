@@ -11,12 +11,12 @@ h1 {
 }
 
 h2 {
-	font-size: 2.5em; 
+	font-size: 2em; 
 }
-h3 {	font-size: 2em;
+h3 {	font-size: 1.75em;
 	text-decoration: underline;
 }
-h4 {	font-size: 1.75em;
+h4 {	font-size: 1.5em;
 }
 h5 {	font-size: 1em;
 }
@@ -34,16 +34,5 @@ h5 {	font-size: 1em;
 
 p {
 	font-size: 1em;
-}
-
-.hero a {
-	color: #00FFAA;
-	font-size: 24px;
-	text-decoration: none;
-}
-
-#footer {
-	color: DarkSlateGray;
-	font-size: 16px;
 }
 
